@@ -6,9 +6,9 @@ const CONFIG = {
     role: 'Solutions Architect',
     bio: '^ㅠ^',
     email: 'icom0802@naver.com',
-    linkedin: 'morethanmin',
+    linkedin: 'cheolminki',
     github: 'github.com/cheolmin',
-    instagram: 'linkedin/in/cheolminki',
+    instagram: '',
   },
   projects: [
     {
