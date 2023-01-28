@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: 'https://github.com/cheolmin/morethan-log'
+      name: `AWS`,
+      href: 'https://aws.amazon.com/ko'
     }
   ],
   // blog setting (required)
